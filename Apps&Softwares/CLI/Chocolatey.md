@@ -1,12 +1,14 @@
-# chocolatey包管理
+# chocolatey 包管理
 
 [TOC]
 
-```bash
+
+```shell
 # powershell中安装(admin管理员)
 
 Set-ExecutionPolicy Bypass -Scope Process -Force; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 # 运行chocolatey
+
 choco
 ```
