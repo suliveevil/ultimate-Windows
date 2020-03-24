@@ -5,3 +5,9 @@
 https://github.com/Code52/carnac
 
 与 OBS 不兼容
+
+
+
+```powershell
+cinst carnac
+```
