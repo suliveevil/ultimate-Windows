@@ -2,6 +2,10 @@
 
 [TOC]
 
+## choco
+
+[choco](https://www.github.com/chocolatey/choco)
+
 
 ```shell
 # powershell中安装(admin管理员)
